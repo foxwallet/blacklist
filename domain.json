@@ -1,3 +1,12 @@
 [
-  
+  {
+    "scam_domain": "doodles-nft.app",
+    "real_domain": "doodles.app",
+    "comment": "https://twitter.com/wallet_guard/status/1559659564051714050"
+  },
+  {
+    "scam_domain": "revoke.space",
+    "real_domain": "revoke.cash",
+    "comment": "https://twitter.com/wallet_guard/status/1559258328160780289"
+  }
 ]
