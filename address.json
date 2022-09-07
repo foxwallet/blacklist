@@ -29254,5 +29254,9 @@
   {
     "address": "0x7aa3a53360541283ffa9192972223b47a902dc0c",
     "comment": "This token is reported to have been used for misleading people into believing it was sent from well-known addresses and may be spam or phishing."
+  },
+  {
+    "address": "0x04c21965f20030F9Cac5c7997072ababF3939e8B",
+    "comment": "This token is reported to have been used for misleading people into believing it was sent from well-known addresses and may be spam or phishing."
   }
 ]
