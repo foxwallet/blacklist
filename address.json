@@ -24177,7 +24177,7 @@
   },
   {
     "address": "0x9603a3d3dcccf5ef1a2060a3da796ac084cc66eb",
-    "comment": ""
+    "comment": "Scam"
   },
   {
     "address": "0xac6a41a0a06b2aaedaa6187bed974e1fe6cb21d2",
@@ -29258,5 +29258,25 @@
   {
     "address": "0x04c21965f20030F9Cac5c7997072ababF3939e8B",
     "comment": "This token is reported to have been used for misleading people into believing it was sent from well-known addresses and may be spam or phishing."
+  },
+  {
+    "address": "0x617Bf230a6886AcCEc5952385EED8Bc85D1A09b2",
+    "comment": "Scam"
+  },
+  {
+    "address": "0x5D104F4C1a023ddcCaBAf53652175Cc387B2827f",
+    "comment": "Scam"
+  },
+  {
+    "address": "0x5259639653f76f3385Ba100DDB6290724891A95b",
+    "comment": "Scam"
+  },
+  {
+    "address": "0x1385E68E3b5Ea66fc50A221F8DcBABBFd3Ee282B",
+    "comment": "Scam"
+  },
+  {
+    "address": "0xE3e1147acD39687A25cA7716227c604500f5c31A",
+    "comment": "Scam"
   }
 ]
