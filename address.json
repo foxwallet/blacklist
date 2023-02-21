@@ -29278,5 +29278,93 @@
   {
     "address": "0xE3e1147acD39687A25cA7716227c604500f5c31A",
     "comment": "Scam"
+  },
+  {
+    "address": "0xe931b17106ba9a58c998408230d99260b9b1eca8",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x0d3716e3e411af431a6e87e715d4b05bbcd67000",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x8af6bc75a76f501ebd093dd0add7986e48864252",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xdf781bba6f9eefb1a74bb39f6df5e282c5976636",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x18ebfda2317940689f37a2137404709ecb46d3e1",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xd6ccfc59658e2df48edbb32e31f2085869631071",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x4f8aa51a9421893fd6a00ed5d740bcf35eaa5bb0",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x83b4917c2faf1f942206e5c382bdd7b76d9f0b74",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xd8489a1a1d0fb41ec6e7bca9f30b8f880f27fa51",
+    "comment": "Spam"
+  },
+  {
+    "address": "0xb31515b496b2d6216554c5713598eccd4d5b07f2",
+    "comment": "Spam"
+  },
+  {
+    "address": "0xe23366cccf6c5318b47621ceac3296d480b5ebc8",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x62eff3d16cf46d89053553c2987F724d4Fa43778",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x980F70d2Edc1BD873878a468e5cD3b244C794023",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x2d7476bdf4d5fd30ce8c81d6ed2a345b1d435993",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x6d4cc9dc49c8450853dec381c65f30a48aa52aa0",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xa7255c85232a42b5c602ed66c319da9af8433bb3",
+    "comment": "Spam"
+  },
+  {
+    "address": "0xE3e1147acD39687A25cA7716227c604500f5c31A",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x41791dab02a1f9b2430cd46f2c6a2b33aa7fd25d",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x1385e68e3b5ea66fc50a221f8dcbabbfd3ee282b",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x4f6a82bb5fd0996158c9ac6bd3605489cad82d8d",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x3be3de5f256841aefa27133b0c6719103d9d547f",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xea418ce828d0570c306c6fb5feae9be0ab30dfc3",
+    "comment": "Phishing"
   }
 ]
