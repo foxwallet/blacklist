@@ -29366,5 +29366,17 @@
   {
     "address": "0xea418ce828d0570c306c6fb5feae9be0ab30dfc3",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x49823f9bb02ba4cd61f0c957ea8d879a9a42a97a",
+    "comment": "Hacker"
+  },
+  {
+    "address": "0x71753d0586ea6b979dfccbb492a45e611e0e0ad6",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x67c4a6da86da4f45030904b143d6b00d25e366e9",
+    "comment": "Phishing"
   }
 ]
