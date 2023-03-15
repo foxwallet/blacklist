@@ -29378,5 +29378,13 @@
   {
     "address": "0x67c4a6da86da4f45030904b143d6b00d25e366e9",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x88adb7dab61a9f18b3568ef15b3b7fd1d7000000",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xC571c434640Fa20BEbB3F48090c09f5BcbdfA8d9",
+    "comment": "Phishing"
   }
 ]
