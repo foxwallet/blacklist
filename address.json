@@ -29386,5 +29386,33 @@
   {
     "address": "0xC571c434640Fa20BEbB3F48090c09f5BcbdfA8d9",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x276C094B89367EEfad5F3a8545e692cf8A7512E8",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x122724736109eaac71c0b594d9836f79dbefbc67",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xe8c358a1f8847bbdd231176338f035ddd330b24b",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x397becccad39c84a9b947e84643bd45552dd8242",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x25d3d485641e6da2af9ddf2296ee6a43d9ed1695",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x0e8e68f682df0e69ab56e2858c47a884cd052e8c",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x064575f615bfd0be08176e1d9d7103ebe9341609",
+    "comment": "Phishing"
   }
 ]
