@@ -29414,5 +29414,13 @@
   {
     "address": "0x064575f615bfd0be08176e1d9d7103ebe9341609",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x18d0230037cbcc426d49687f5ae309aa5b9306f2",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x8c4a5c29a1e94a0e88f42ab172501a34b0d2c38f",
+    "comment": "Phishing"
   }
 ]
