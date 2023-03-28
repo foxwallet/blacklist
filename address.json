@@ -29438,5 +29438,9 @@
   {
     "address": "0x6d8981847eb3cc2234179d0f0e72f6b6b2421a01",
     "comment": "Vulnerable Contract"
+  },
+  {
+    "address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "comment": "Virus"
   }
 ]
