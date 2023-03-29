@@ -29442,5 +29442,9 @@
   {
     "address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
     "comment": "Virus"
+  },
+  {
+    "address": "0x513C285CD76884acC377a63DC63A4e83D7D21fb5",
+    "comment": "Gas Thief"
   }
 ]
