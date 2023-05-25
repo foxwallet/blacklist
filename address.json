@@ -29482,5 +29482,9 @@
   {
     "address": "0x7a4c7ab6e6422e7d01fb0fdabe42cd2bb7191f85",
     "comment": "Fake Sui"
+  },
+  {
+    "address": "0x0fe9c37058a749891ae6bfb61908f157c0a6b205",
+    "comment": "Spam"
   }
 ]
