@@ -29490,5 +29490,13 @@
   {
     "address": "0x14b147cc2c8250B8abc05e62C4523EF00Ca7df5F",
     "comment": "Hacker"
+  },
+  {
+    "address": "0xdc1651bf072b10956fb62f145c1be18fb26e5d29",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x5033aea1873f919e35e6996ba92b63cf17f9dbce",
+    "comment": "Spam"
   }
 ]
