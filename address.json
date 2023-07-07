@@ -29546,5 +29546,29 @@
   {
     "address": "0xaa19fc190048c7a53486518ccbfefd27b5d01e7e",
     "comment": "Hacker"
+  },
+  {
+    "address": "0x97EAe24CA21fc9c0C5D4c31D12E9100ab50F20eA",
+    "comment": "Spam"
+  },
+  {
+    "address": "0xEA615d0857eb124adB6c7CA0906af636AC575846",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x1775b7638042e60ff2c9be40bea5d9d3491c066f",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xd048b4c23af828e5be412505a51a8dd7b37782dd",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x396d8805d184ef5325b5ccd107638adfd38ccff8",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xade5238ec193ad5497b1b3b4b4c754c8aaf3b9f6",
+    "comment": "Phishing"
   }
 ]
