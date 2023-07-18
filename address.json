@@ -29578,5 +29578,9 @@
   {
     "address": "0x63d704740a82a6413c35bbeb11004a9fA5B59A7c",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x5608808d4e5af536abb578898b4b025b61a65f8a",
+    "comment": "Hacker"
   }
 ]
