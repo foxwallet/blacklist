@@ -29582,5 +29582,21 @@
   {
     "address": "0x5608808d4e5af536abb578898b4b025b61a65f8a",
     "comment": "Hacker"
+  },
+  {
+    "address": "0x6a37d5fb6ce0641ae98d60d0707d96dbb74cf2bf",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x0F9aDAaCcd7cAEcC5019194E15aD19624FeD95fA",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x4507a34fbcc3bb0b657c819b67962854a949fa24",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0xe4Dc9c80B81e7Fb385b1674B38C030936C3982d4",
+    "comment": "Phishing"
   }
 ]
