@@ -29654,5 +29654,9 @@
   {
     "address": "0x345d069B9D376829c5A8d3E202Ac51E65A138946",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x65281b6d0402095d66f531268b4662524040fdfc",
+    "comment": "Spam"
   }
 ]
