@@ -29658,5 +29658,17 @@
   {
     "address": "0x65281b6d0402095d66f531268b4662524040fdfc",
     "comment": "Spam"
+  },
+  {
+    "address": "0x00006DEAcd9ad19dB3d81F8410EA2B45eA570000",
+    "comment": "Balancer Hack"
+  },
+  {
+    "address": "0x645710Af050E26bB96e295bdfB75B4a878088d7E",
+    "comment": "Balancer Hack"
+  },
+  {
+    "address": "0x0000626d6DC72989e3809920C67D01a7fe030000",
+    "comment": "Balancer Hack"
   }
 ]
