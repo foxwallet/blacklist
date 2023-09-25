@@ -138127,11 +138127,16 @@
   {
     "scam_domain": "pjplte.top",
     "real_domain": "",
-    "comment": ""
+    "comment": "Phishing"
   },
   {
     "scam_domain": "foxwallet.site",
     "real_domain": "foxwallet.com",
-    "comment": ""
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "pepiol.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
