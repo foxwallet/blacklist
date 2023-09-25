@@ -138135,6 +138135,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.top",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "pepiol.top",
     "real_domain": "",
     "comment": "Phishing"
