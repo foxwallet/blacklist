@@ -138140,7 +138140,157 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.pro",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.xyz",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.cc",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ws",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.in",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.uk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.org",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.app",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.online",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.net",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.se",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.press",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.space",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.io",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ink",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.tech",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.bio",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "pepiol.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "punkwl.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "hexpool.net",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "hexepool.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "crolib.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "shibpool.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "snxpool.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usd-rewards.me",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "abict.pro",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "claim-tether.net",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fixedfloat.bio",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "apebayc.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "jaredmevbot.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ftxrebase.eth.li",
     "real_domain": "",
     "comment": "Phishing"
   }
