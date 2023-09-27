@@ -138265,6 +138265,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "usd-coin.net",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "abict.pro",
     "real_domain": "",
     "comment": "Phishing"
