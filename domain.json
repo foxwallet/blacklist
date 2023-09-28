@@ -138315,6 +138315,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.plus",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.press",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138595,6 +138600,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "fox-wallet.plus",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "fox-wallet.press",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138781,6 +138791,176 @@
   },
   {
     "scam_domain": "galthenback.live",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "shibnft.cc",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "cfreward.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "circleusdc.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bitcase.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "avadrop.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "apesdrop.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "arbitdrop.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "arbitdrop.info",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "opdrop.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "opdrop.info",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "arbitdrop.net",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "2000rewards.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "basecoinbase.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "lidosteth.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "lidoaward.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "drops-usdc.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "drop-usd.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "rewards-cyber.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "rewardton.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "optimisum.net",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethbytw.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "staxevent.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "blurevent.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "blurevent.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dydxevent.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "eventdydx.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "polyevent.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "coin-reward.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "circlefinance.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "circleusds.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usdt-reward.me",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "unievent.plus",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "unipools.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "abcmeta.io",
     "real_domain": "",
     "comment": "Phishing"
   },
