@@ -138765,6 +138765,21 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "dappsresync.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "defiserver.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "decentralizedapi.live",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "usdtreward.com",
     "real_domain": "",
     "comment": "Phishing"
