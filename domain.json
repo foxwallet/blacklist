@@ -138130,52 +138130,7 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.art",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.site",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.top",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.pro",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.xyz",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.cc",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.ws",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.in",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.uk",
-    "real_domain": "foxwallet.com",
-    "comment": "Phishing"
-  },
-  {
-    "scam_domain": "foxwallet.org",
+    "scam_domain": "foxwallet.ai",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138185,7 +138140,147 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.online",
+    "scam_domain": "foxwallet.art",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.asia",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.aero",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.be",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.bio",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.biz",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ca",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.cc",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ch",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.co",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.cloud",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.club",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.click",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.fr",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.fyi",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.hk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ie",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.in",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.inc",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ink",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.info",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.io",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.im",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.la",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.live",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.me",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.meme",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.mobile",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.nu",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138200,7 +138295,22 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.se",
+    "scam_domain": "foxwallet.name",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.online",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.org",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.pro",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138210,12 +138320,17 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.cloud",
+    "scam_domain": "foxwallet.se",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.click",
+    "scam_domain": "foxwallet.sg",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.site",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138230,27 +138345,27 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.io",
+    "scam_domain": "foxwallet.store",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.meme",
+    "scam_domain": "foxwallet.top",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.vip",
+    "scam_domain": "foxwallet.tk",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.nu",
+    "scam_domain": "foxwallet.tv",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.ink",
+    "scam_domain": "foxwallet.tw",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138260,7 +138375,312 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "foxwallet.bio",
+    "scam_domain": "foxwallet.uk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.us",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.vip",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.ws",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.wang",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.xyz",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ai",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.app",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.art",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.asia",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.aero",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.be",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.bio",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.biz",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ca",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.cc",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ch",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.co",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.com",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.cloud",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.club",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.click",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.fr",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.fyi",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.hk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ie",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.in",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.inc",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ink",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.info",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.io",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.im",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.la",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.live",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.me",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.meme",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.mobile",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.nu",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.net",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.net.ru",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.name",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.online",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.org",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.pro",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.press",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.se",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.sg",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.site",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.space",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.shop",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.store",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.top",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.tk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.tv",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.tw",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.tech",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.uk",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.us",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.vip",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ws",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.wang",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.xyz",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
