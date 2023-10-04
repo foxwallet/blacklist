@@ -138205,6 +138205,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.eth.li",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.fr",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138306,6 +138311,11 @@
   },
   {
     "scam_domain": "foxwallet.org",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwallet.pm",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138490,6 +138500,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "fox-wallet.eth.li",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "fox-wallet.fr",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138591,6 +138606,11 @@
   },
   {
     "scam_domain": "fox-wallet.org",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.pm",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
@@ -138961,6 +138981,71 @@
   },
   {
     "scam_domain": "abcmeta.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bellas.ltd",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "cusdcs.eth.li",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "cusdc.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "husdc.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "husdc.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "worldcoin.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "worldcoins.bond",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "worldcoin.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "woldcoin.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "vanitytron.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "raretron.io",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ftxrebase.eth.li",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "tronaddress.org",
     "real_domain": "",
     "comment": "Phishing"
   },
