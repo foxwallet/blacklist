@@ -29726,5 +29726,21 @@
   {
     "address": "0xce23DC1787198d2AD27c168d9Bf36D20753a9FE9",
     "comment": "FoxWallet Token Scam"
+  },
+  {
+    "address": "0x00005cA8824899d3f6c10522D9cc1b04E05A0000",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x0000553f880ffa3728b290e04e819053a3590000",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x7a89eb4bbbf99e628697f165ff1d08bc9938b836",
+    "comment": "Phishing"
+  },
+  {
+    "address": "0x00001f78189bE22C3498cFF1B8e02272C3220000",
+    "comment": "Phishing"
   }
 ]
