@@ -140985,6 +140985,31 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "apdom.site",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "lidoairdrop.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "atdom.site",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "stlido.pro",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "aaker.site",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "usdtreward.com",
     "real_domain": "",
     "comment": "Phishing"
