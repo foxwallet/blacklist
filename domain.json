@@ -138225,6 +138225,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.day",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.de",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138591,6 +138596,11 @@
   },
   {
     "scam_domain": "fox-wallet.crypto",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.day",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
