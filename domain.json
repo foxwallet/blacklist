@@ -138330,6 +138330,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.ly",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.me",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -138706,6 +138711,11 @@
   },
   {
     "scam_domain": "fox-wallet.live",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.ly",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
   },
