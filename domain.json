@@ -138400,6 +138400,26 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.money",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.money",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.money",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.money",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.mobile",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
