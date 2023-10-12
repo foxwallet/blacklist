@@ -141160,6 +141160,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "coindefi.cloud",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "usdtreward.com",
     "real_domain": "",
     "comment": "Phishing"
