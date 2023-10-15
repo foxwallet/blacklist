@@ -29750,5 +29750,17 @@
   {
     "address": "0x00001f78189bE22C3498cFF1B8e02272C3220000",
     "comment": "Phishing"
+  },
+  {
+    "address": "0x63aB4b21B1D100Cf4215Fe78bBE3be0B4a6f8768",
+    "comment": "Fox Phishing"
+  },
+  {
+    "address": "TP588h883X8kwAdHaN3Gc25159mbvJVjGQ",
+    "comment": "Fox Phishing"
+  },
+  {
+    "address": "3KqJyEUgR9BzdVLGm4tutE84tYBQbUCY6a",
+    "comment": "Fox Phishing"
   }
 ]
