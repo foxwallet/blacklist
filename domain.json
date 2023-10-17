@@ -141185,6 +141185,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "okbchain.us",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "synchronize-wallet.square.site",
     "real_domain": "",
     "comment": "Phishing"
