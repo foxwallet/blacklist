@@ -138370,6 +138370,31 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.fun",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.fun",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.fun",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.fun",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwaiiet.fun",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.fyi",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -141236,6 +141261,16 @@
   },
   {
     "scam_domain": "okbchain.us",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "lido-stakes.fi",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "galaxe.fun",
     "real_domain": "",
     "comment": "Phishing"
   },
