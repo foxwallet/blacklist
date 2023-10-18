@@ -29770,5 +29770,13 @@
   {
     "address": "0x86F81554E69f34ffB911d552bD62B2035568d69b",
     "comment": "Phishing NFT"
+  },
+  {
+    "address": "0xd3d526a8cca22fe072cd1852faa4f0a6f2c21765",
+    "comment": "Spam"
+  },
+  {
+    "address": "0x539584c6db2b111CA53036711CAb7eb3a3CF9c3a",
+    "comment": "Spam"
   }
 ]
