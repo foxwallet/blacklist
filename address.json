@@ -29762,5 +29762,13 @@
   {
     "address": "3KqJyEUgR9BzdVLGm4tutE84tYBQbUCY6a",
     "comment": "Fox Phishing"
+  },
+  {
+    "address": "0x048862CcD0CbE38442Bb9bF52903C5632368251A",
+    "comment": "Phishing NFT"
+  },
+  {
+    "address": "0x86F81554E69f34ffB911d552bD62B2035568d69b",
+    "comment": "Phishing NFT"
   }
 ]
