@@ -142145,6 +142145,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "app.multichain.org",
+    "real_domain": "",
+    "comment": "Out of control, https://twitter.com/MultichainOrg/status/1679768407628185600"
+  },
+  {
     "scam_domain": "synthetix.cc",
     "real_domain": "",
     "comment": "Phishing"
