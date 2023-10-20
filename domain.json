@@ -142158,5 +142158,20 @@
     "scam_domain": "bybit.cc",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bybit.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bybit.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bybit.pro",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
