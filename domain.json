@@ -142153,5 +142153,10 @@
     "scam_domain": "synthetix.cc",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bybit.cc",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
