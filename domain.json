@@ -142173,5 +142173,10 @@
     "scam_domain": "bybit.pro",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dydxstaking.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
