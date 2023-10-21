@@ -142130,6 +142130,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "maverickairdrop.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "usdtreward.com",
     "real_domain": "",
     "comment": "Phishing"
