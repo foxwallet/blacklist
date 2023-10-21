@@ -138710,6 +138710,26 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.to",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.to",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.to",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.to",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.top",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
