@@ -138450,6 +138450,26 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.global",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.global",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.global",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.global",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.gq",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -142201,6 +142221,11 @@
   },
   {
     "scam_domain": "dydxstaking.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "noox.global",
     "real_domain": "",
     "comment": "Phishing"
   }
