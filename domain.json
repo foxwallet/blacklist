@@ -142263,5 +142263,10 @@
     "scam_domain": "celestia.icu",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dappsresync.com",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
