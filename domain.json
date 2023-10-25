@@ -138485,6 +138485,26 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.icu",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.icu",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.icu",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.icu",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.id",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -142236,6 +142256,11 @@
   },
   {
     "scam_domain": "plexusdrop.biz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "celestia.icu",
     "real_domain": "",
     "comment": "Phishing"
   }
