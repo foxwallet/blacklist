@@ -29786,5 +29786,9 @@
   {
     "address": "0x76faf3549cb25e78ff3b4d771b0de9fd5bf2d1b1",
     "comment": "Fox Phishing"
+  },
+  {
+    "address": "0x9194b7c731e011e7111b9b4ffa0353ff13572aa4",
+    "comment": "Spam NFT"
   }
 ]
