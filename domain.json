@@ -142268,5 +142268,10 @@
     "scam_domain": "dappsresync.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "earn-eth.net",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
