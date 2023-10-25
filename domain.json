@@ -142228,5 +142228,10 @@
     "scam_domain": "noox.global",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "pzpznh.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
