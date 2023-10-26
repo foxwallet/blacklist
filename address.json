@@ -29798,5 +29798,9 @@
   {
     "address": "0xec5132eeF0272d0838f8E9678052250464fe9Ceb",
     "comment": "Scam"
+  },
+  {
+    "address": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
+    "comment": "Maestro was hacked"
   }
 ]
