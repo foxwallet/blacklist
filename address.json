@@ -29802,5 +29802,9 @@
   {
     "address": "0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e",
     "comment": "Maestro was hacked"
+  },
+  {
+    "address": "0x8678ce4481d2ba776ed7b53832ebcb3139017926",
+    "comment": "Spam"
   }
 ]

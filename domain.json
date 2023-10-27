@@ -142220,6 +142220,11 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "synthetix.to",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "bybit.cc",
     "real_domain": "",
     "comment": "Phishing"
