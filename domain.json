@@ -142283,5 +142283,10 @@
     "scam_domain": "galaxeid.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "2000usdt.cc",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
