@@ -142313,5 +142313,15 @@
     "scam_domain": "2000usdt.cc",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "celestiaclaim.biz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "celestiaclaim.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
