@@ -142323,5 +142323,20 @@
     "scam_domain": "celestiaclaim.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "safepal6a.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "safepal6b.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "safepal7a.com",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
