@@ -142338,5 +142338,20 @@
     "scam_domain": "safepal7a.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "metawin.to",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "celestia.icu",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethapy.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
