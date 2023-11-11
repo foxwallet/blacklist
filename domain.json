@@ -142353,5 +142353,10 @@
     "scam_domain": "ethapy.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "verasityclaim.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
