@@ -142358,5 +142358,10 @@
     "scam_domain": "verasityclaim.xyz",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "venomproject.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
