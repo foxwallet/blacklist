@@ -142363,5 +142363,10 @@
     "scam_domain": "venomproject.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "mantlles.xyz",
+    "real_domain": "mantle.xyz",
+    "comment": "Phishing"
   }
 ]
