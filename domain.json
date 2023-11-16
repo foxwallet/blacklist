@@ -142368,5 +142368,20 @@
     "scam_domain": "mantlles.xyz",
     "real_domain": "mantle.xyz",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usdt-check.org",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usdt-check.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usdt-check.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
