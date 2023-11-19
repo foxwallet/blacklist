@@ -142383,5 +142383,10 @@
     "scam_domain": "usdt-check.xyz",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "metawin.land",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
