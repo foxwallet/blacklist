@@ -142388,5 +142388,10 @@
     "scam_domain": "metawin.land",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "poly-earn.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
