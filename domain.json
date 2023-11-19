@@ -142393,5 +142393,10 @@
     "scam_domain": "poly-earn.xyz",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "usd.pm",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
