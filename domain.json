@@ -142398,5 +142398,10 @@
     "scam_domain": "usd.pm",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "nmgsmzy.com",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
