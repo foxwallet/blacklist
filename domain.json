@@ -142458,5 +142458,20 @@
     "scam_domain": "ethtrade.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "roincl.icu",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "roincl.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "roincl.cc",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
