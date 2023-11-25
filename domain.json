@@ -142403,5 +142403,60 @@
     "scam_domain": "nmgsmzy.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethminigg.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethminigg.cc",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethminigg.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethminigg.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethmineeg.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethmineeg.cc",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethmineeg.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethmineeg.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethtrade.cc",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethtrade.pm",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "ethtrade.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
