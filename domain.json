@@ -142473,5 +142473,10 @@
     "scam_domain": "roincl.cc",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "blast-l2.re",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
