@@ -142485,7 +142485,12 @@
     "comment": "Phishing"
   },
   {
-    "scam_domain": "ephdbtop",
+    "scam_domain": "ephdb.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "synchronizerzone.com",
     "real_domain": "",
     "comment": "Phishing"
   }
