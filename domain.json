@@ -142493,5 +142493,15 @@
     "scam_domain": "synchronizerzone.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dappradarairdrops.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dappradarairdrops.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
