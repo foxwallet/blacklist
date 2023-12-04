@@ -142503,5 +142503,15 @@
     "scam_domain": "dappradarairdrops.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dydxexchang.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "dydxexchang.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
