@@ -142553,5 +142553,20 @@
     "scam_domain": "shibatoken.syz",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bonewin.syz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bonewin.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "bonewin.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
