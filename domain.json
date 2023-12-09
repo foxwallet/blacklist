@@ -138745,6 +138745,31 @@
     "comment": "Phishing"
   },
   {
+    "scam_domain": "foxwallet.re",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-wallet.re",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "fox-walet.re",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwalet.re",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "foxwaiiet.re",
+    "real_domain": "foxwallet.com",
+    "comment": "Phishing"
+  },
+  {
     "scam_domain": "foxwallet.se",
     "real_domain": "foxwallet.com",
     "comment": "Phishing"
@@ -142511,6 +142536,21 @@
   },
   {
     "scam_domain": "dydxexchang.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "shibatoken.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "shibatoken.re",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "shibatoken.syz",
     "real_domain": "",
     "comment": "Phishing"
   }
