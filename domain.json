@@ -142568,5 +142568,20 @@
     "scam_domain": "bonewin.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "5000usdt.syz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "5000usdt.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "5000usdt.top",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
