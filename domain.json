@@ -142583,5 +142583,20 @@
     "scam_domain": "5000usdt.top",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "strk-networks.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "strk-networks.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "strk-networks.com",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
