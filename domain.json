@@ -142598,5 +142598,20 @@
     "scam_domain": "strk-networks.com",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "apy2eth.com",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "apy2eth.top",
+    "real_domain": "",
+    "comment": "Phishing"
+  },
+  {
+    "scam_domain": "apy2eth.xyz",
+    "real_domain": "",
+    "comment": "Phishing"
   }
 ]
