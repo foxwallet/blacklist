@@ -142613,5 +142613,10 @@
     "scam_domain": "apy2eth.xyz",
     "real_domain": "",
     "comment": "Phishing"
+  },
+  {
+    "scam_domain": "pigtime.meme",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
