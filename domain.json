@@ -142628,5 +142628,10 @@
     "scam_domain": "lido.fun",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "11000usdc.org",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
