@@ -142618,5 +142618,10 @@
     "scam_domain": "pigtime.meme",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "eligible-chain.link",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
