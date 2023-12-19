@@ -142633,5 +142633,10 @@
     "scam_domain": "11000usdc.org",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "l2-blast.net",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
