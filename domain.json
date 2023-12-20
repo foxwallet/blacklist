@@ -142638,5 +142638,10 @@
     "scam_domain": "l2-blast.net",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "toncrypto.io",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
