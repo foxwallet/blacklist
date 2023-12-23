@@ -142643,5 +142643,10 @@
     "scam_domain": "toncrypto.io",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "abict.net",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
