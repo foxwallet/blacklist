@@ -142648,5 +142648,10 @@
     "scam_domain": "abict.net",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "bnbreward.online",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
