@@ -142653,5 +142653,10 @@
     "scam_domain": "bnbreward.online",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "coinomivip.chat",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
