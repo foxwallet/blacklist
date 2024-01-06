@@ -142673,5 +142673,10 @@
     "scam_domain": "nft-multibit.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "fairswap.network",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
