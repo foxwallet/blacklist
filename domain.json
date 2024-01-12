@@ -142678,5 +142678,10 @@
     "scam_domain": "fairswap.network",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "enter-zkfair.io",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
