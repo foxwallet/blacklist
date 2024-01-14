@@ -142703,5 +142703,10 @@
     "scam_domain": "event-web3usdlt.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdrop-mintchain.top",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
