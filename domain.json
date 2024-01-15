@@ -142713,5 +142713,10 @@
     "scam_domain": "liquid-ether.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "mylido.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
