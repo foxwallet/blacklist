@@ -142708,5 +142708,10 @@
     "scam_domain": "airdrop-mintchain.top",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "liquid-ether.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
