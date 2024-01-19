@@ -142718,5 +142718,10 @@
     "scam_domain": "mylido.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdrop-zkfair.io",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
