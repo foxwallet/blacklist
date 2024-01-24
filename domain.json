@@ -142728,5 +142728,10 @@
     "scam_domain": "bianciconectes.online",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "boost-manta.network",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
