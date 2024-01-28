@@ -142753,5 +142753,10 @@
     "scam_domain": "bitrock.app",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "altlayerio.online",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
