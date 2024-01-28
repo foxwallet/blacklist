@@ -142738,5 +142738,10 @@
     "scam_domain": "zkfaer.io",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "steth-drop.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
