@@ -142743,5 +142743,15 @@
     "scam_domain": "steth-drop.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "injective.world",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "bitrock.app",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
