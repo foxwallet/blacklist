@@ -142758,5 +142758,10 @@
     "scam_domain": "altlayerio.online",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "githubtalentcommunity.online",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
