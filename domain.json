@@ -142763,5 +142763,10 @@
     "scam_domain": "githubtalentcommunity.online",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "blast-get.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
