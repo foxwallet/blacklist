@@ -142768,5 +142768,10 @@
     "scam_domain": "blast-get.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "claiming-blast.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
