@@ -142778,5 +142778,10 @@
     "scam_domain": "blast-claim.io",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "mndntwrk.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
