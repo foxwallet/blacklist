@@ -142788,5 +142788,10 @@
     "scam_domain": "odzaar.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "cIaim-ether.fi",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
