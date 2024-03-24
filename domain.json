@@ -142803,5 +142803,10 @@
     "scam_domain": "fox-wallet.cyou",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "ventoryproject.net",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
