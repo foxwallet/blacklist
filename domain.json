@@ -142808,5 +142808,10 @@
     "scam_domain": "ventoryproject.net",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "okxtron.vip",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
