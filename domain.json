@@ -142820,7 +142820,12 @@
     "comment": "Scam"
   },
   {
-    "scam_domain": "Merlin-chain.finance",
+    "scam_domain": "merlin-chain.finance",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "meriinchain.io",
     "real_domain": "",
     "comment": "Scam"
   }
