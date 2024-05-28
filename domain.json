@@ -142843,5 +142843,15 @@
     "scam_domain": "ionic-claim.top",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "coincheck-vip.com",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "coincheckvip.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
