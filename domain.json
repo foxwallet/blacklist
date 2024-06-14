@@ -142863,5 +142863,15 @@
     "scam_domain": "morplno.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "coincheck-vip.net",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "coincheck-vip.top",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
