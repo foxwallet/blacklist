@@ -142958,5 +142958,20 @@
     "scam_domain": "pnpmpz.top",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "my-wallet-app.com",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "funding-wallet.com",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "pppcoo.top",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
