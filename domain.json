@@ -143023,5 +143023,10 @@
     "scam_domain": "airdrop-listadao.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "www.goldfutures.app",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
