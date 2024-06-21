@@ -1,6 +1,6 @@
 import sys
 import json
-
+from urllib.parse import urlparse
 
 def _add(file_name: str, info: dict):
     with open(file_name, "r") as reader:
@@ -16,6 +16,9 @@ def add(item: str, comment: str = "Scam"):
         exit(1)
     item = item.lower().strip()    
     if "." in item:
+        if item.startswith("https://"):
+            parsed = urlparse(item)
+            item = parsed.netloc
         _add("domain.json", {
             "scam_domain": item,
             "real_domain": "",
