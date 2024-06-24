@@ -19,6 +19,8 @@ def add(item: str, comment: str = "Scam"):
         if item.startswith("https://"):
             parsed = urlparse(item)
             item = parsed.netloc
+        if item.startswith("www."):
+            item = item[4:]
         _add("domain.json", {
             "scam_domain": item,
             "real_domain": "",
