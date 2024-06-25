@@ -143078,5 +143078,10 @@
     "scam_domain": "phemex.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "maverick-gov2.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
