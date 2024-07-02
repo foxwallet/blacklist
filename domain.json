@@ -143168,5 +143168,10 @@
     "scam_domain": "distribute-borpatoken.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "mavairdrop-gov2.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
