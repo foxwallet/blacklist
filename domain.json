@@ -143253,5 +143253,10 @@
     "scam_domain": "maticfortune.world",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "claimlava.network",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
