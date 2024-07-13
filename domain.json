@@ -143258,5 +143258,10 @@
     "scam_domain": "claimlava.network",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "pppslu.top",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
