@@ -143270,12 +143270,17 @@
     "comment": "Scam"
   },
   {
-    "scam_domain": "airdrop.claim-lavanetwork.xyz",
+    "scam_domain": "claim-lavanetwork.xyz",
     "real_domain": "",
     "comment": "Scam"
   },
   {
     "scam_domain": "popfnf.top",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "ancient8airdrop.xyz",
     "real_domain": "",
     "comment": "Scam"
   }
