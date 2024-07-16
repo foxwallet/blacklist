@@ -29530,19 +29530,19 @@
   {
     "address": "0xca87eb07E49cA475231D10d3A609E17C64D88fCe",
     "comment": "Scam"
-  }, 
+  },
   {
     "address": "0xD0e1e9cbF8D27c29547916C02c374b56318A6098",
     "comment": "Scam"
-  }, 
+  },
   {
     "address": "0x1179D025064c91bdc828C31c2E7d71D7Bf9Ca2cE",
     "comment": "Scam"
-  }, 
+  },
   {
     "address": "0xEc28c8e164BF1A8AeEd29743e351e67b88EEBC68",
     "comment": "Scam"
-  }, 
+  },
   {
     "address": "0xaa19fc190048c7a53486518ccbfefd27b5d01e7e",
     "comment": "Hacker"
@@ -29986,6 +29986,21 @@
   {
     "address": "796x4K9jsL6hdyPGV8dmPjugVvpga7hUx87VFy7Fghyh",
     "comment": "Scam"
+  },
+  {
+    "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+    "comment": "lifi-exploited"
+  },
+  {
+    "address": "0x341e94069f53234fe6dabef707ad424830525715",
+    "comment": "lifi-exploited"
+  },
+  {
+    "address": "0xde1e598b81620773454588b85d6b5d4eec32573e",
+    "comment": "lifi-exploited"
+  },
+  {
+    "address": "0x24ca98fb6972f5ee05f0db00595c7f68d9fafd68",
+    "comment": "lifi-exploited"
   }
 ]
-
