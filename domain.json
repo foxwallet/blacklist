@@ -143293,5 +143293,10 @@
     "scam_domain": "lifiprotocol.app",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "avantis-finance.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
