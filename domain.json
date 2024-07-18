@@ -143298,5 +143298,15 @@
     "scam_domain": "avantis-finance.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "pcs-cakedefi.com",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "scroll-canvas.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
