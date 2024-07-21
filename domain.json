@@ -143318,5 +143318,15 @@
     "scam_domain": "claim-thruster.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "cryptording.top",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "pepmvf.top",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
