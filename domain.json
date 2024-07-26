@@ -143358,5 +143358,15 @@
     "scam_domain": "coln-phemex.net",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "meetly.gg",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "conichek.cc",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
