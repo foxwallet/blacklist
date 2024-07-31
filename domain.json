@@ -143403,5 +143403,10 @@
     "scam_domain": "claim-liquidswap.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "deepcoino.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
