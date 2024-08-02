@@ -143408,5 +143408,15 @@
     "scam_domain": "deepcoino.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdrop-fluid.one",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdrop-thruster.finance",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
