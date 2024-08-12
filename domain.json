@@ -143428,5 +143428,10 @@
     "scam_domain": "neonevm-claim.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "neonevm-airdrop.org",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
