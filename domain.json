@@ -143475,6 +143475,26 @@
     "comment": "Scam"
   },
   {
+    "scam_domain": "aleo.is",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "aleo.top",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "aleo.cc",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "aleo.co",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
     "scam_domain": "us-eth.cc",
     "real_domain": "",
     "comment": "Scam"
