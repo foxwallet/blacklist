@@ -143498,5 +143498,10 @@
     "scam_domain": "us-eth.cc",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "sunpumpn.org",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
