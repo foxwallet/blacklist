@@ -143513,5 +143513,10 @@
     "scam_domain": "checker-aleo.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdrop-energymemecoin.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
