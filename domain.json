@@ -143523,5 +143523,10 @@
     "scam_domain": "mythical-project.org",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "deficonnect.dev",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
