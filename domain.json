@@ -143528,5 +143528,15 @@
     "scam_domain": "deficonnect.dev",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "orochi-network.xyz",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "quest-redactedairdrop.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
