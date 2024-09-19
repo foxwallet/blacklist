@@ -143538,5 +143538,10 @@
     "scam_domain": "quest-redactedairdrop.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "redactedairdrop.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
