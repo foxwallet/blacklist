@@ -143548,5 +143548,10 @@
     "scam_domain": "walletsyncing.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "claimeigentokenprojectio.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
