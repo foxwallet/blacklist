@@ -143668,5 +143668,10 @@
     "scam_domain": "foxwallte.network",
     "real_domain": "foxwallet.com",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "airdropoptopia.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
