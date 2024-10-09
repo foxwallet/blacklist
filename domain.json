@@ -143803,5 +143803,10 @@
     "scam_domain": "foxwellet.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "krahrakennus.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
