@@ -143813,5 +143813,10 @@
     "scam_domain": "usdt-savings-web3.world",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "http://aieonetwork.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
