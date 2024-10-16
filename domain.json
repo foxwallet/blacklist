@@ -143808,5 +143808,10 @@
     "scam_domain": "krahrakennus.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "usdt-savings-web3.world",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
