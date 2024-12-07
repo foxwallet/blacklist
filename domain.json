@@ -143828,5 +143828,10 @@
     "scam_domain": "manualdappprotocol.io",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "stether.us",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
