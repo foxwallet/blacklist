@@ -143833,5 +143833,10 @@
     "scam_domain": "stether.us",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "pudgy-penguins.live",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
