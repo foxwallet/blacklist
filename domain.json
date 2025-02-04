@@ -143838,5 +143838,10 @@
     "scam_domain": "pudgy-penguins.live",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "aearn.network",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
