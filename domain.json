@@ -143843,5 +143843,10 @@
     "scam_domain": "aearn.network",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "foundation-airdrop.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
