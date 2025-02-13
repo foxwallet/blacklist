@@ -143848,5 +143848,10 @@
     "scam_domain": "foundation-airdrop.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "solayer-reward.xyz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
