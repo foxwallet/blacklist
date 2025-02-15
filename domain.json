@@ -143853,5 +143853,10 @@
     "scam_domain": "solayer-reward.xyz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "light-chainai.live",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
