@@ -143863,5 +143863,10 @@
     "scam_domain": "kamino-finance.one",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "bep20.biz",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
