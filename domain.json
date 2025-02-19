@@ -143858,5 +143858,10 @@
     "scam_domain": "light-chainai.live",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "kamino-finance.one",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
