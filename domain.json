@@ -143868,5 +143868,10 @@
     "scam_domain": "bep20.biz",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "somnia-airdrop.live",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
