@@ -143873,5 +143873,10 @@
     "scam_domain": "somnia-airdrop.live",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "chain-mint.network",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
