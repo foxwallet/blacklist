@@ -143878,5 +143878,10 @@
     "scam_domain": "chain-mint.network",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "dinoape-mint.run",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
