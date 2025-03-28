@@ -143883,5 +143883,10 @@
     "scam_domain": "dinoape-mint.run",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "monaimonad.live",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
