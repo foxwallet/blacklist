@@ -30006,5 +30006,9 @@
   {
     "address": "0x35234875e74dd8408efc84aa81b7b5f93a842dfaae58e9b45828d256492ef204::usdc::USDC",
     "comment": "Scam"
+  },
+  {
+    "address": "0x1904af3bd3205bd0baf2969466b6a54340000000",
+    "comment": "Scam"
   }
 ]
