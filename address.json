@@ -30070,5 +30070,9 @@
   {
     "address": "0xb4713ead2fc17423869028c1a7b254b8d4394e66",
     "comment": "Scam"
+  },
+  {
+    "address": "0x76da2f240a4f678108a4087ba2aed3559be60c42",
+    "comment": "Fake USDC"
   }
 ]
