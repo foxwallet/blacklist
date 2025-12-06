@@ -143913,5 +143913,10 @@
     "scam_domain": "aearn.online",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "dapp-devhubs.netlify.app",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
