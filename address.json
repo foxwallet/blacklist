@@ -30074,5 +30074,9 @@
   {
     "address": "0x76da2f240a4f678108a4087ba2aed3559be60c42",
     "comment": "Fake USDC"
+  },
+  {
+    "address": "0xa27837ebcd56dbf72b5c4aaaeca3eea12000495d",
+    "comment": "Fake USDC"
   }
 ]
