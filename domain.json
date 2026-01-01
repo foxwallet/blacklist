@@ -143918,5 +143918,15 @@
     "scam_domain": "dapp-devhubs.netlify.app",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "seagtivity.org",
+    "real_domain": "",
+    "comment": "Scam"
+  },
+  {
+    "scam_domain": "globaldeficrypto.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
