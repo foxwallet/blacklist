@@ -30078,5 +30078,13 @@
   {
     "address": "0xa27837ebcd56dbf72b5c4aaaeca3eea12000495d",
     "comment": "Fake USDC"
+  },
+  {
+    "address": "0x69d0e52b10cb046873dce1e599468c517db60bd0",
+    "comment": "Scam"
+  },
+  {
+    "address": "liquiditypool-btc.eth",
+    "comment": "Scam"
   }
 ]
