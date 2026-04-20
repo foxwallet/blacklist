@@ -143948,5 +143948,10 @@
     "scam_domain": "polygon-eu.app",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "global-networker.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
