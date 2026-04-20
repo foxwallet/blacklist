@@ -143943,5 +143943,10 @@
     "scam_domain": "frii.site",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "polygon-eu.app",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
