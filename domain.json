@@ -143958,5 +143958,10 @@
     "scam_domain": "node7w7.com",
     "real_domain": "",
     "comment": "Scam"
+  },
+  {
+    "scam_domain": "challenge-onekey.com",
+    "real_domain": "",
+    "comment": "Scam"
   }
 ]
